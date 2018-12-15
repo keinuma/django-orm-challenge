@@ -25,7 +25,7 @@
   },
   {
     "model": "blog.comment",
-    "pk": 1,
+    "pk": 2,
     "fields": {
       "text": "懇親会はどうだった？",
       "post": 1
@@ -33,7 +33,7 @@
   },
   {
     "model": "blog.comment",
-    "pk": 2,
+    "pk": 3,
     "fields": {
       "text": "自分は難しくてできなかった",
       "post": 2
