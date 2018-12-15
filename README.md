@@ -2,7 +2,7 @@
 ## 用意するもの
 - Docker
 - Docker Compose
-- Python 3.7.0 or later
+- Python 3.7.0
 
 ## 起動方法
 `.env.example` を修正して、`.env` ファイルを作成する
